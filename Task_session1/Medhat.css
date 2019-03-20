@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    background-color: white;
+}
+
+a{
+    background-color: black;
+    color: white;
+}
+
+.space{
+    color: black;
+}
+p{
+    color: white;
+    color: #3D3C3C;
+}
+#Logo{
+    background-color: black;
+}
+.AD{
+    color: #000050;
+}
+#Copyright{
+    color: white;
+    background-color: #383636;
+}

@@ -1,0 +1,191 @@
+#Container{
+width: 1510px;
+height: 2100px;
+background-color: white;
+}
+#banner{
+    width: 100%;
+    height: 500px;
+    background-image: url("banner.jpg");
+}
+#OpenSpace{
+    width: 280px;
+    height: 150px;
+    position: absolute;
+    left: 15%;
+    background-color:  #499DDD;  
+    text-align: center;
+    border-radius: 5px;
+}
+#OpenSpace h1{
+margin: 0 auto;
+margin: 20px;
+}
+#OpenSpace a{
+    text-decoration: none;
+    color: white;
+}  
+#nav{
+    width: 600px;
+    height: 50px; 
+    position: absolute;
+    top: 90px;
+    left: 650px;
+    background-color: #499DDD;
+    text-align: center;
+    border-radius: 5px;
+} 
+
+#nav li{
+    display: inline-block;
+    margin-left: .55cm;
+    position: relative;
+    right: 25px;
+    list-style-type: none;
+}
+#nav a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+#Middle{
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+#Content{
+    width: 80%;
+    margin-left: 15%;
+    height: 900;
+
+}
+
+#cont1{
+    width: 30%;
+    display: inline-block;
+
+}
+#cont2{
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    top: 30px;
+
+}
+#cont3{
+
+    width: 30%;
+    display: inline-block; 
+    position: relative;
+    bottom: 40px;
+}
+
+#JAN30{
+    width: 80px;
+    height: 90px;
+    background-color: #499DDD;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+#first{
+    width: 210px;
+    height: 90px;
+    display: inline-block;
+    margin-left: 20px;
+}
+#first p{
+    color: #8A8A8A;
+}
+#JAN30 >h1{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 1px;
+}
+#JAN30 >h3  {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 7px;
+
+}
+#JAN28{
+    width: 80px;
+    height: 90px;
+    background-color: #499DDD;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+#second{
+    width: 210px;
+    height: 70px;
+    display: inline-block;
+    margin-left: 20px;
+}
+#second p{
+    color: #8A8A8A;
+}
+#JAN28 >h1{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 1px;
+}
+#JAN28 >h3  {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 7px;
+}
+.cont1_3:hover{
+text-decoration: none;
+}
+.cont1_3{
+    color: #585757;
+}
+.cont_2{
+    text-decoration: none;
+    color: #707070;
+}
+.cont_2:hover{
+    text-decoration: underline;
+}
+
+ #Welcome{
+    width: 100%;
+    height: 350px;
+    background-color: #E9E8E8;
+    position: relative;
+}
+.WLC{
+    color:#8888FC;
+}
+.WLC:hover{
+    text-decoration: none;
+}
+#Welcome >div{
+    position: absolute;
+    left: 15%;
+}
+
+#Copyright{
+    width: 100%;
+    height: 250px; 
+    background-color: #444464 ;
+    color: #8A8888 ;
+    text-align: center;
+    position: relative;
+    
+}
+.CR{
+    text-decoration: none;
+    color: #A3A2A2;
+}
+
+
+
